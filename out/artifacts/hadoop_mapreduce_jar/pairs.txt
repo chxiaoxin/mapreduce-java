@@ -1,0 +1,1 @@
+/tmp/hadoop-lixin/mapred/local/1540288775395/pairs.txt
